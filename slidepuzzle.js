@@ -3,11 +3,12 @@
   DESCRIPTION: Click event handling and helper functions for puzzle squares
 */
 
+// Config data
 const TOTAL_IMAGES    = 9;
 const IMAGE_WIDTH     = 110;
 const IMAGE_HEIGHT    = 110;
 const IMG_FILE_TYPE   = "gif"
-const EMPTY_SPACE_NUM = 2;
+const EMPTY_SPACE_NUM = 8;
 
 let images = [];
 let squares = [];
