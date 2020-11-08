@@ -6,7 +6,7 @@
 const TOTAL_IMAGES    = 9;
 const IMAGE_WIDTH     = 110;
 const IMAGE_HEIGHT    = 110;
-const IMG_FILE_TYPE   = "jpg"
+const IMG_FILE_TYPE   = "gif"
 const EMPTY_SPACE_NUM = 2;
 
 let images = [];
